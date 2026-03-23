@@ -48,23 +48,9 @@
 - API 연동 규약 문서 역할
 - 3D viewer UX 기준 문서 역할
 
-### Intended Readers
-
-- React 프론트엔드 개발자
-- Three.js / R3F 개발자
-- UI/UX 디자이너
-- API 설계자
-- QA 담당자
-
-### Relationship to Other Documents
-
-- `plan.md`: 전체 시스템 아키텍처 기준
-- 루트 `README.md`: 저장소 전체 개요 기준
-- 본 문서: 프론트엔드 한정 세부 설계 기준
-
 ## 2. Frontend Mission
 
-### Frontend의 본질적 역할
+### 본질적 역할
 
 프론트엔드의 핵심 역할:
 
@@ -74,7 +60,7 @@
 - 3D 결과의 신뢰 가능한 시각화
 - 재시도와 실패 복구의 쉬운 UX 제공
 
-### Frontend 성공 기준
+### 성공 기준
 
 - 사용자의 업로드 실수 감소
 - job 상태 이해 용이성
