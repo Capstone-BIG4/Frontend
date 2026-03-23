@@ -1,8 +1,7 @@
 # Frontend Architecture README
 
 가상 피팅 플랫폼 프론트엔드 상세 설계 문서  
-기준 문서: [../../plan.md](../../plan.md), [../../README.md](../../README.md)  
-예상 앱 경로: `apps/web`
+
 
 ## Table of Contents
 
